@@ -1,0 +1,17 @@
+.jumbotron {
+    height: 90vh;
+    background-image: url('./images/Cargo-Truck-Download-PNG.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: darkgrey;
+}
+
+.jumbo-text {
+    /* pour centrer verticalement*/
+    transform: translate(-50%, -50%);
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: 10%
+
+}
